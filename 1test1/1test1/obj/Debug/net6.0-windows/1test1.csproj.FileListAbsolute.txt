@@ -1,0 +1,17 @@
+G:\PRG\1test1\1test1\bin\Debug\net6.0-windows\1test1.exe
+G:\PRG\1test1\1test1\bin\Debug\net6.0-windows\1test1.deps.json
+G:\PRG\1test1\1test1\bin\Debug\net6.0-windows\1test1.runtimeconfig.json
+G:\PRG\1test1\1test1\bin\Debug\net6.0-windows\1test1.dll
+G:\PRG\1test1\1test1\bin\Debug\net6.0-windows\1test1.pdb
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.csproj.AssemblyReference.cache
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\_1test1.Form1.resources
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.csproj.GenerateResource.cache
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.GeneratedMSBuildEditorConfig.editorconfig
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.AssemblyInfoInputs.cache
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.AssemblyInfo.cs
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.csproj.CoreCompileInputs.cache
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.dll
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\refint\1test1.dll
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.pdb
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\1test1.genruntimeconfig.cache
+G:\PRG\1test1\1test1\obj\Debug\net6.0-windows\ref\1test1.dll
